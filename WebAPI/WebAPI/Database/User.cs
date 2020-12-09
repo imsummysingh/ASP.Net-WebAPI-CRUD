@@ -13,3 +13,18 @@ namespace WebAPI.Models
         public string Contact { get; set; }
     }
 }
+
+
+//DB TABLE
+
+//Database Name- WebAPI_CRUD
+
+//Create table Users
+//(
+//UserId int primary key identity,
+//Name nvarchar(50),
+//Address nvarchar(50),
+//Contact nvarchar(50)
+//)
+
+//select* from dbo.Users
